@@ -1,2 +1,2 @@
-# project4-group9
-predicting health conditions
+# predicting-diabetic-outcomes
+We're predicting only diabetes with some models and analyzing them to determine which gives better results.

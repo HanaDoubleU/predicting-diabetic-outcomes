@@ -53,7 +53,7 @@ Visualize and analyze features such as HadDiabetes, BMI, and WeightInKilograms
 **Latifah J.**
 
 ***Model Selection***
-Compare supervised learning models (Random Forest Classifier and Logistic Regression)
+Compare supervised learning models (eg. Random Forest Classifier and Logistic Regression) and evaluate their performance.
 
 **Agustín R.**
 
@@ -65,27 +65,12 @@ Ensure balanced target classes using oversampling or undersampling
 **Jessica V.**
 
 ***Feature-Based Models***
-Develop Random Forest Classifier and Logistic Regression models using all features
+Develop Random Forest Classifier using all features and evaluate performance using appropriate metrics
 
 **Hana W.**
 
 ***Model Testing***
-Test models and evaluate performance using appropriate metrics
-
-**Floris C**
-
-***Model Tuning***
-Optimize model hyperparameters for best performance
-
-**Latifah J.**
-
-***Retraining Selected Model***
-Retrain the best-performing model with the entire dataset
-
-**Agustín R.**
-
-***Deployment***
-Deploy the final model
+Analyze Random Forest Classifier and feature importances
 
 **Documentation and Presentation**
 
@@ -94,10 +79,10 @@ Deploy the final model
 ***README Documentation***
 Create comprehensive project documentation
 
-**Hana W.**
+**Everybody**
 
-***Presentation***
-Prepare the final project presentation
+***Slides***
+Create navigable and digestible slides and know the audience
 
 **Data Sources**
 https://www.kaggle.com/datasets/tarekmuhammed/patients-data-for-medical-field 
